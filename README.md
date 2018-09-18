@@ -1,2 +1,3 @@
 # ian-seth-site
-Personal website of Ian Seth McPhail
+
+This repository includes Ian Seth McPhail's personal webpage
